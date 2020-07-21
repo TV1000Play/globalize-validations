@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.test_files = Dir["span/**/*"]
 
   s.add_dependency "globalize", ">= 3"
-  s.add_dependency "globalize-accessors", "~> 0.1"
+  s.add_dependency "globalize-accessors", "~> 0.2"
 
   s.add_development_dependency "bundler", "~> 1.3"
   s.add_development_dependency "rake", "~> 0.9"
